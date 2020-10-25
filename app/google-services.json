@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1015046961444",
+    "firebase_url": "https://push-notification-1850c.firebaseio.com",
+    "project_id": "push-notification-1850c",
+    "storage_bucket": "push-notification-1850c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015046961444:android:7e4f0a1f902daa96f79bb1",
+        "android_client_info": {
+          "package_name": "com.joy.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015046961444-o77iqag1jvfb1cvrp1n13ddobda3n84t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.joy.pushnotification",
+            "certificate_hash": "644da52c7b886a5c9ab3a523c81c31b83da402c4"
+          }
+        },
+        {
+          "client_id": "1015046961444-54qbunvdrvvo8r4glsb7okr0hc37c87a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqwJPQQtZQHHBRo83IZa5p-BqqVtPJBB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015046961444-54qbunvdrvvo8r4glsb7okr0hc37c87a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
